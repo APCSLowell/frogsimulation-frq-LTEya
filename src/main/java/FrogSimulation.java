@@ -29,7 +29,6 @@ public class FrogSimulation
 	{ /* to be implemented in part (b) */ 
 		if (simulate()==false)
 			return (double) pos/num;
-		return (double) pos/num;
 	}
 	
 	
